@@ -1,8 +1,8 @@
-### Tiziano Pirez 4to 4ta
+### Alejandro Rod 4°4
 
 # Gestión de Software y Paquetes
 
-## Cuestionario
+## PREGUNTAS
 
 1. **¿Qué es un paquete de software en GNU/Linux? Explica la diferencia entre un paquete binario y un paquete de código fuente.**
    - Un paquete de software es un conjunto de archivos necesarios para instalar, configurar y ejecutar un programa. La diferencia es que un paquete binario contiene el software precompilado, listo para ejecutarse, mientras que un paquete de código fuente contiene el código fuente que debe ser compilado antes de su instalación.
